@@ -1,6 +1,5 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-// import React from 'react';
 const React = require("react");
 const react_native_1 = require("react-native");
 class App extends React.Component {
