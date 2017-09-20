@@ -8,8 +8,5 @@ git cd TypeScriptCRNA
 Make sure you have tslint and typescript globally installed.
 
 ```
-npm install @types/react @types/react-native
-```
-```
 npm start
 ```
